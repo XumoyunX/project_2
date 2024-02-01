@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="amqp" />
+            <item index="1" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="2" class="java.lang.String" itemvalue="wrapt" />
+            <item index="3" class="java.lang.String" itemvalue="asgiref" />
+            <item index="4" class="java.lang.String" itemvalue="docx2pdf" />
+            <item index="5" class="java.lang.String" itemvalue="frozenlist" />
+            <item index="6" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="7" class="java.lang.String" itemvalue="ruamel.yaml.clib" />
+            <item index="8" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="9" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="10" class="java.lang.String" itemvalue="lxml" />
+            <item index="11" class="java.lang.String" itemvalue="multidict" />
+            <item index="12" class="java.lang.String" itemvalue="yarl" />
+            <item index="13" class="java.lang.String" itemvalue="aiosignal" />
+            <item index="14" class="java.lang.String" itemvalue="fast-bitrix24" />
+            <item index="15" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="telegram._message.Message.send_audio" />
+          <option value="int.id" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
